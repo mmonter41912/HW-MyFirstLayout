@@ -1,0 +1,95 @@
+body {
+  background-color: coral;
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
+}
+h1 {
+  text-align: left;
+  text-decoration-line: underline;
+  letter-spacing: 4px;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+.imgContainer {
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.profile-picimg {
+  width: auto;
+  height: 100%;
+  margin-left: -50px;
+}
+
+p {
+  width: 50%;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: left;
+}
+.photoGallery {
+  margin: 0 10%;
+}
+
+.imgContainer2 {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.Kiaba {
+  width: auto;
+  height: 250%;
+  margin-left: -90px;
+  margin-top: -150px;
+}
+
+.imgContainer3 {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.Kahlua {
+  width: auto;
+  height: 150%;
+  margin-left: 0px;
+  margin-top: -50px;
+}
+
+.imgContainer4 {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.Kudelia {
+  width: auto;
+  height: 200%;
+  margin-left: -80px;
+  margin-top: -130px;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  text-align: center;
+}
